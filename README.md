@@ -1,4 +1,4 @@
-# bookstore_rental project
+# Bookstore_Rental Project
 Management for a library rental store
 The system must keep track of both the books in the library and those that have been borrowed.
 A borrowed book can be returned in a maximum of 2 weeks, otherwise, a penalty is paid for each day of delay (1% of the rental price / day late).
