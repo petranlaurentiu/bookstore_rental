@@ -20,3 +20,4 @@ o The rental price
 
 ## Project start
 - run index.html in any browser
+- VsCode run index.html with Live server extension
